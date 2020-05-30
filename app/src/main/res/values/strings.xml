@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mpi-ii-2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_github">Map</string>
+    <string name="github">GitHub</string>
+    <string name="map">Map</string>
+</resources>
